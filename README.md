@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @schatten007
-- 👀 I’m interested in living
-- 🌱 I’m currently learning 
-- 📫 How to reach me lichtundschattan@gmail.com
+- 👋 Hi, I’m Hamza!. I am a passionate Full Stack Developer with a strong interest in AI and Machine learning, specifically Prompts Engineering, LLMs, and Image Generation models. 
 
 <!---
 schatten007/schatten007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
