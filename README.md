@@ -1,4 +1,4 @@
-👋 Hi, I’m Hamza!. I am a passionate Full Stack Developer with a strong interest in AI and Machine learning, specifically Prompts Engineering, LLMs, and Image Generation models. 
+👋 I'm a Master's student in Applied Computer Science in DE, interested in AI engineering, automation, systems programming and high-performance computing.
 
 <!---
 schatten007/schatten007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
